@@ -9,6 +9,7 @@ variables:
   HH_bbtautau_version: "main"
   H_mumu_version: "main"
   FLAF_version: "default"
+  PlotKit_version: "default"
   Corrections_version: "default"
   StatInference_version: "default"
   HH_bbWW_active: "1"
