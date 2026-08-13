@@ -24,9 +24,9 @@ variables:
   HH_bbWW_processes: "custom_CI_Signal custom_CI_Background custom_CI_Data"
   HH_bbtautau_processes: "custom_CI_Signal custom_CI_Background custom_CI_Data"
   H_mumu_processes: "custom_CI_signal custom_CI_background custom_CI_data"
-  HH_bbtautau_eras: "Run3_2022 Run3_2022EE Run3_2023 Run3_2023BPix"
-  HH_bbWW_eras: "Run3_2022 Run3_2022EE Run3_2023 Run3_2023BPix"
-  H_mumu_eras: "ALL"
+  HH_bbtautau_eras: "Run3_2022 Run3_2022EE Run3_2023 Run3_2023BPix Run3_2024 Run3_2025 Run3_2026"
+  HH_bbWW_eras: "Run3_2022 Run3_2022EE Run3_2023 Run3_2023BPix Run3_2024 Run3_2025 Run3_2026"
+  H_mumu_eras: "Run3_2022 Run3_2022EE Run3_2023 Run3_2023BPix Run3_2024 Run3_2025 Run3_2026"
   rebuild_cache: "0"
   TEST_TIMEOUT: "4h"
 
